@@ -4,7 +4,7 @@ Joda-Time Contributions area - Hibernate support
 Joda-Time is a date and time library that vastly improves on the JDK.
 This separate project provides Hibernate database persistence support.
 
-See the home page for more details:
+See the home page for more details: 
 http://www.joda.org/joda-time-hibernate/
 
 The source code is held primarily at GitHub:
