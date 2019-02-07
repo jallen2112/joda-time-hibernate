@@ -7,7 +7,7 @@ This separate project provides Hibernate database persistence support.
 See the home page for more details: 
 http://www.joda.org/joda-time-hibernate/
 
-The source code is held primarily at GitHub:
+The source code is held primarily at GitHub: 
 https://github.com/JodaOrg/joda-time-hibernate
 
 Additional setup
