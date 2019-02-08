@@ -109,7 +109,8 @@
               <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
             </manifest>
             <manifestEntries>
-              <Implementation-Build>${timestamp}</Implementation-Build>
+              <BuildNumber>${buildNumber}</BuildNumber>
+              <Timestamp>${timestamp}</Timestamp>
             </manifestEntries>
           </archive>
         </configuration>
